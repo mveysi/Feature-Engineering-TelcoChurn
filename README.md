@@ -8,6 +8,8 @@ Hedef değişkenimizi projemizin amacından anlayabiliyoruz.
 
 ![musteri-iliskileri_3](https://github.com/user-attachments/assets/ae11238a-db42-4f5d-90c5-c872f8982f63)
 
+# Verideki Değişkenler
+
 CustomerId: Müşteri İd’si
 
 Gender: Cinsiyet
@@ -48,5 +50,6 @@ MonthlyCharges: Müşteriden aylık olarak tahsil edilen tutar
 
 TotalCharges: Müşteriden tahsil edilen toplam tutar
 
-Churn: Müşterinin kullanıp kullanmadığı (Evet veya Hayır)
+### Churn: Müşterinin kullanıp kullanmadığı (Evet veya Hayır)
+
 
